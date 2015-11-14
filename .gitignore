@@ -14,31 +14,31 @@
         "entirePackageFiles": [
             {
                 "name": "Library",
-                "downloadLink": "http://dl53.yunpan.360.cn/intf.php?method=Download.downloadFile&qid=1244787103&fname=%2Flibraries+-+%E5%89%AF%E6%9C%AC.zip&fhash=205d9972ecf7d0039e0922799f2b958720b68801&dt=53_53.9d832d0d12784c4036d839a6688e0e1c&v=1.0.1&rtick=14475040766405&open_app_id=0&devtype=web&sign=38fb9a982b2eaedaa11156ae2e8b579f&",
+                "downloadLink": "http://01f519.l21.yunpan.cn/lk/cLSGyit6P8Wag#/-0",
                 "localPath": "libraries/",
                 "md5": "4482E062E7563A387EE0E5810F06634B"
             },
             {
                 "name": "Assets",
-                "downloadLink": "http://dl53.yunpan.360.cn/intf.php?method=Download.downloadFile&qid=1244787103&fname=%2Fassets.zip&fhash=076310ab8d7f91d8298e52baa79cea3f1920307d&dt=53_53.29dfec681a2b88b6d3a31f28ed6443fd&v=1.0.1&rtick=14475032606281&open_app_id=0&devtype=web&sign=dff470bdf8d4b7c4872bf4266ee1003c&",
+                "downloadLink": "http://01f519.l21.yunpan.cn/lk/cLSGyit6P8Wag#/-0",
                 "localPath": "assets/",
                 "md5": "BC9F74AA3C8EBCFE34BEAE2E3474A23D"
             },
             {
                 "name": "Natives",
-                "downloadLink": "http://dl53.yunpan.360.cn/intf.php?method=Download.downloadFile&qid=1244787103&fname=%2Fnatives.zip&fhash=a5e92b18ddd73229354c9b6cc59929f7e81aec3e&dt=53_53.a0e1c70ed0ab3d6b1a8a0a137d7389b5&v=1.0.1&rtick=14475036565652&open_app_id=0&devtype=web&sign=2fdc5fb56f18fba68eec323d3f56bc54&",
+                "downloadLink": "http://01f519.l21.yunpan.cn/lk/cLSGyit6P8Wag#/-0",
                 "localPath": "natives/",
                 "md5": "5DB33E7FAE680081F2744B739E12CB4E"
             },
             {
                 "name": "Scripts",
-                "downloadLink": "http://dl53.yunpan.360.cn/intf.php?method=Download.downloadFile&qid=1244787103&fname=%2Fscripts.zip&fhash=aef8e9e25dcdd81d6cac27364b5da8466a186f2f&dt=53_53.92e5e7034a700be984d2f60443df1e9e&v=1.0.1&rtick=14475035123230&open_app_id=0&devtype=web&sign=227fa870274c0391256a46af45119c09&",
+                "downloadLink": "http://01f519.l21.yunpan.cn/lk/cLSGyit6P8Wag#/-0",
                 "localPath": "scripts/",
                 "md5": "40AE6A2C4008F9CA66D42DB5068358BA"
             },
             {
                 "name": "Configs",
-                "downloadLink": "http://dl53.yunpan.360.cn/intf.php?method=Download.downloadFile&qid=1244787103&fname=%2Fconfig.zip&fhash=be9c997a51ee7a10e6b9942f159baf6a18d78f96&dt=53_53.0a235b37d69acabc3e92e08222767526&v=1.0.1&rtick=14475032958516&open_app_id=0&devtype=web&sign=dbb8c083e377c27bea63c31d45c2cd29&",
+                "downloadLink": "http://01f519.l21.yunpan.cn/lk/cLSGyit6P8Wag#/-0",
                 "localPath": "config/",
                 "md5": "050CFC639E8F95E16C6A3A790154A747"
             },
@@ -50,7 +50,7 @@
             },
             {
                 "name": "Mods",
-                "downloadLink": "http://dl53.yunpan.360.cn/intf.php?method=Download.downloadFile&qid=1244787103&fname=%2Fmods.zip&fhash=41a13d6f701b3d67947e08b0ecc09a075e6f40ee&dt=53_53.cd79984278e41f44bbfa87fcf782b70b&v=1.0.1&rtick=14475034921450&open_app_id=0&devtype=web&sign=487458d2959c6def3ac5024dc1d4169e&",
+                "downloadLink": "http://01f519.l21.yunpan.cn/lk/cLSGyit6P8Wag#/-0",
                 "localPath": "mods/",
                 "md5": "A2C3AB40412C2F7DF3ECF803435AD52A"
             }
@@ -58,25 +58,25 @@
         "customFiles": [
             {
                 "name": "MainJar",
-                "downloadLink": "http://dl53.yunpan.360.cn/intf.php?method=Download.downloadFile&qid=1244787103&fname=%2F%E5%96%B5%E5%B1%8B%E5%B9%BB%E6%83%B3%E4%B9%A1.jar&fhash=0605ea5f767f926e5903803c4d4a06f76f308cc3&dt=53_53.a014fddf22c3eed0969db27f1e120c90&v=1.0.1&rtick=14475036789353&open_app_id=0&devtype=web&sign=b13bf2a5389f49ff91641fafe9084bab&",
+                "downloadLink": "http://01f519.l21.yunpan.cn/lk/cLSGyit6P8Wag#/-0",
                 "localPath": "喵屋幻想乡.jar",
                 "md5": "3CC1782D340A224A5E091231442CFB63"
             },
             {
                 "name": "ServerData",
-                "downloadLink": "http://dl53.yunpan.360.cn/intf.php?method=Download.downloadFile&qid=1244787103&fname=%2Fservers.dat&fhash=0243db8140bbcd8f9cb9c44a9c411402a47b1cf0&dt=53_53.692c9b8ed6fc9a85540c5838b034d77b&v=1.0.1&rtick=14475036964329&open_app_id=0&devtype=web&sign=cb4a953a2fbd70554387424644ebf50a&",
+                "downloadLink": "http://01f519.l21.yunpan.cn/lk/cLSGyit6P8Wag#/-0",
                 "localPath": "servers.dat",
                 "md5": "A812EFEBDBF4932BA94F4707E3B4F5E8"
             },
             {
                 "name": "GregTechLang",
-                "downloadLink": "http://dl53.yunpan.360.cn/intf.php?method=Download.downloadFile&qid=1244787103&fname=%2FGregTech.lang&fhash=5bd95992315b422e3759a6bbbec763ae6de2e50b&dt=53_53.104f1dda30455b9bb62b6783a8a853b0&v=1.0.1&rtick=14475037121232&open_app_id=0&devtype=web&sign=4e5bf412357a5bb08df12b83bf6022f0&",
+                "downloadLink": "http://01f519.l21.yunpan.cn/lk/cLSGyit6P8Wag#/-0",
                 "localPath": "GregTech.lang",
                 "md5": "93E160A1ED17638A25C4A3058F35F6AA"
             },
 			{
                 "name": "Setting",
-                "downloadLink": "http://dl53.yunpan.360.cn/intf.php?method=Download.downloadFile&qid=1244787103&fname=%2Foptions.txt&fhash=93c6e274ea69ce23a24a6a3fa3b01b07c7ac7162&dt=53_53.ea20159391b085edbee8cdbecd888bfc&v=1.0.1&rtick=14475037432875&open_app_id=0&devtype=web&sign=87b27d7475bbaadfef8ec62dfd34d518&",
+                "downloadLink": "http://01f519.l21.yunpan.cn/lk/cLSGyit6P8Wag#/-0",
                 "localPath": "options.txt",
                 "md5": "DC9656AC4C8F8B5BE74C564CF7AD8011"
             }			
