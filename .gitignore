@@ -1,14 +1,14 @@
 {
     "icon": "http://libertydome.b0.upaiyun.com/ldlogo.png",
     "background": "http://libertydome.b0.upaiyun.com/ldbg.png",
-    "version": "1.09",
+    "version": "0.4",
     "generation": "2",
     "author": "喵呜幻想乡团队",
     "instanceName": "Fantasy township",
     "description": "喵呜幻想乡beta0.4
-	1.mod鐨勪緥琛屾洿鏂�
-	2.淇浜嗙儹鍔ㄥ姏瀛︾殑鐭跨墿璇嶅吀闂
-	3.澧炲姞浜嗙幆澧僲od",
+	1.添加环境mod
+	2.mod另行更新
+	3.修复了崩溃",
     "updatePath": "http://libertydome.b0.upaiyun.com/LibertyDomeAdv.json",
     "fileSystem": {
         "entirePackageFiles": [
