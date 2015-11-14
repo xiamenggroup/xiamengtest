@@ -14,9 +14,9 @@
         "entirePackageFiles": [
             {
                 "name": "Library",
-                "downloadLink": "http://dl53.yunpan.360.cn/intf.php?method=Download.downloadFile&qid=1244787103&fname=%2Flibraries.zip&fhash=8bd52cc44a1fd625ad8a6a7567f0308092995582&dt=53_53.96c33063da680285fb1e374c75c6e5f0&v=1.0.1&rtick=14475036213739&open_app_id=0&devtype=web&sign=05523e3472dd614fb6ef90889bd47b2e&",
+                "downloadLink": "http://dl53.yunpan.360.cn/intf.php?method=Download.downloadFile&qid=1244787103&fname=%2Flibraries+-+%E5%89%AF%E6%9C%AC.zip&fhash=205d9972ecf7d0039e0922799f2b958720b68801&dt=53_53.9d832d0d12784c4036d839a6688e0e1c&v=1.0.1&rtick=14475040766405&open_app_id=0&devtype=web&sign=38fb9a982b2eaedaa11156ae2e8b579f&",
                 "localPath": "libraries/",
-                "md5": "AACCCE5792C77E4C8A034D2ECDA08B65"
+                "md5": "4482E062E7563A387EE0E5810F06634B"
             },
             {
                 "name": "Assets",
