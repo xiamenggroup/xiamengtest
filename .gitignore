@@ -1,46 +1,46 @@
 {
     "icon": "http://libertydome.b0.upaiyun.com/ldlogo.png",
     "background": "http://libertydome.b0.upaiyun.com/ldbg.png",
-    "version": "0.4",
+    "version": "0.1",
     "generation": "2",
     "author": "喵呜幻想乡团队",
     "instanceName": "Fantasy township",
-    "description": "喵呜幻想乡beta0.4
+    "description": "喵呜幻想乡ver0.1
 	1.添加环境mod
 	2.mod另行更新
 	3.修复了崩溃",
-    "updatePath": "http://libertydome.b0.upaiyun.com/LibertyDomeAdv.json",
+    "updatePath": "https://raw.githubusercontent.com/xiamenggroup/SWSW/master/.gitignore",
     "fileSystem": {
         "entirePackageFiles": [
             {
                 "name": "Library",
-                "downloadLink": "http://libertydome.b0.upaiyun.com/libraries.zip",
+                "downloadLink": "http://nj02all01.baidupcs.com/file/58b9d805dd6e07a75dc4cbfa565a805b?bkt=p2-nj02-861&fid=1097258300-250528-23486691997296&time=1447500768&sign=FDTAXGERLBH-DCb740ccc5511e5e8fedcff06b081203-NwAjyHWL3wfLiXAMkpfwmH37E2g%3D&to=nj2hb&fm=Nan,B,T,ny&sta_dx=62&sta_cs=0&sta_ft=zip&sta_ct=0&fm2=Nanjing02,B,T,ny&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=000028b3c22cdb7565b873ca6c537fa334a0&sl=81330255&expires=8h&rt=sh&r=755876384&mlogid=7371014291579377223&vuk=1097258300&vbdid=1833870351&fin=libraries.zip&fn=libraries.zip&slt=pm&uta=0&rtype=1&iv=0&isw=0&dp-logid=7371014291579377223&dp-callid=0.1.1",
                 "localPath": "libraries/",
-                "md5": "1E16F12F998BDBEEC4E5A6B6CA37D5DF"
+                "md5": "AACCCE5792C77E4C8A034D2ECDA08B65"
             },
             {
                 "name": "Assets",
-                "downloadLink": "http://libertydome.b0.upaiyun.com/assets.zip",
+                "downloadLink": "http://nj02all01.baidupcs.com/file/87678032a549c78354b23cdd1cf87a9f?bkt=p2-nj02-861&fid=1097258300-250528-940186934408189&time=1447501048&sign=FDTAXGERLBH-DCb740ccc5511e5e8fedcff06b081203-wkQC5AWWJL2zJv3PBQ%2BziQt9x9U%3D&to=nj2hb&fm=Nan,B,M,ny&sta_dx=108&sta_cs=0&sta_ft=zip&sta_ct=0&fm2=Nanjing02,B,M,ny&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=0000337c1baa63383a7ecf3d18056d5ff196&sl=74711118&expires=8h&rt=sh&r=146504237&mlogid=7371089469909584832&vuk=1097258300&vbdid=1833870351&fin=assets.zip&fn=assets.zip&slt=pm&uta=0&rtype=1&iv=0&isw=0&dp-logid=7371089469909584832&dp-callid=0.1.1",
                 "localPath": "assets/",
-                "md5": "47BD43D77B2B91C2E9970B1B5215660A"
+                "md5": "BC9F74AA3C8EBCFE34BEAE2E3474A23D"
             },
             {
                 "name": "Natives",
-                "downloadLink": "http://libertydome.b0.upaiyun.com/natives.zip",
+                "downloadLink": "http://nj02all01.baidupcs.com/file/a2a29a8377a0ec85eddcdaf4e75acb2d?bkt=p2-nj02-861&fid=1097258300-250528-1030934720685063&time=1447501230&sign=FDTAXGERLBH-DCb740ccc5511e5e8fedcff06b081203-IfQHYtCMIjMxkMUWDo9VgyQTx34%3D&to=nj2hb&fm=Nan,B,T,ny&sta_dx=6&sta_cs=0&sta_ft=zip&sta_ct=0&fm2=Nanjing02,B,T,ny&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=00003dbaa690f3f69b5085bb2d9c6e26fa99&sl=74711118&expires=8h&rt=sh&r=410071288&mlogid=7371138517605229078&vuk=1097258300&vbdid=1833870351&fin=natives.zip&fn=natives.zip&slt=pm&uta=0&rtype=1&iv=0&isw=0&dp-logid=7371138517605229078&dp-callid=0.1.1",
                 "localPath": "natives/",
-                "md5": "6167b2dbcdc8cdd9f571173940fc896f"
+                "md5": "5DB33E7FAE680081F2744B739E12CB4E"
             },
             {
                 "name": "Scripts",
-                "downloadLink": "http://libertydome.b0.upaiyun.com/scripts.zip",
+                "downloadLink": "http://nj02all01.baidupcs.com/file/40ae6a2c4008f9ca66d42db5068358ba?bkt=p2-nj02-861&fid=1097258300-250528-798667855949760&time=1447501333&sign=FDTAXGERLBH-DCb740ccc5511e5e8fedcff06b081203-%2F9jOd0vBaEbkG9LLNMzdtGjaEd8%3D&to=nj2hb&fm=Nan,B,T,ny&sta_dx=0&sta_cs=0&sta_ft=zip&sta_ct=0&fm2=Nanjing02,B,T,ny&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=140040ae6a2c4008f9ca66d42db5068358baf3b8d45700000000bc3f&sl=72417358&expires=8h&rt=sh&r=994288481&mlogid=7371166087263603033&vuk=1097258300&vbdid=1833870351&fin=scripts.zip&fn=scripts.zip&slt=pm&uta=0&rtype=1&iv=0&isw=0&dp-logid=7371166087263603033&dp-callid=0.1.1",
                 "localPath": "scripts/",
-                "md5": "AE1B9558BB38930CBD50DCF05A44B3AE"
+                "md5": "40AE6A2C4008F9CA66D42DB5068358BA"
             },
             {
                 "name": "Configs",
-                "downloadLink": "http://libertydome.b0.upaiyun.com/config.zip",
+                "downloadLink": "http://nj02all01.baidupcs.com/file/050cfc639e8f95e16c6a3a790154a747?bkt=p2-nj02-861&fid=1097258300-250528-161841825975823&time=1447501481&sign=FDTAXGERLBH-DCb740ccc5511e5e8fedcff06b081203-y1QEmSXRWXDALYpvXpaUiom7jhM%3D&to=nj2hb&fm=Nan,B,U,ny&sta_dx=1&sta_cs=0&sta_ft=zip&sta_ct=0&fm2=Nanjing02,B,U,ny&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=1400050cfc639e8f95e16c6a3a790154a7479eb4d1b30000000a5fe1&sl=72417358&expires=8h&rt=sh&r=784226042&mlogid=7371205822491578438&vuk=1097258300&vbdid=1833870351&fin=config.zip&fn=config.zip&slt=pm&uta=0&rtype=1&iv=0&isw=0&dp-logid=7371205822491578438&dp-callid=0.1.1",
                 "localPath": "config/",
-                "md5": "D6DF720999F8CBDE373399C7F1676FE7"
+                "md5": "050CFC639E8F95E16C6A3A790154A747"
             },
             {
                 "name": "CustomSkinLoader",
@@ -50,35 +50,35 @@
             },
             {
                 "name": "Mods",
-                "downloadLink": "http://libertydome.b0.upaiyun.com/mods.zip",
+                "downloadLink": "http://nj02all01.baidupcs.com/file/9fdbb4639942df58991f504a24ed5b82?bkt=p2-nj02-861&fid=1097258300-250528-490998471565253&time=1447501911&sign=FDTAXGERLBH-DCb740ccc5511e5e8fedcff06b081203-dhZOB1V%2FRZ58s%2BUE5Gt1N%2FgRK7U%3D&to=nj2hb&fm=Nan,B,U,ny&sta_dx=110&sta_cs=0&sta_ft=zip&sta_ct=0&fm2=Nanjing02,B,U,ny&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=00005ae464f8ef00891748981bffef3a75be&sl=74711118&expires=8h&rt=sh&r=456969744&mlogid=7371321113851281273&vuk=1097258300&vbdid=1833870351&fin=mods.zip&fn=mods.zip&slt=pm&uta=0&rtype=1&iv=0&isw=0&dp-logid=7371321113851281273&dp-callid=0.1.1",
                 "localPath": "mods/",
-                "md5": "909B48909495440C2EB310A7732BCBE4"
+                "md5": "A2C3AB40412C2F7DF3ECF803435AD52A"
             }
         ],
         "customFiles": [
             {
                 "name": "MainJar",
-                "downloadLink": "http://libertydome.b0.upaiyun.com/SingleFiles/LibertyDome-Elite.jar",
-                "localPath": "LibertyDome-Elite.jar",
-                "md5": "8569E3CAB38E236867CAC0953703C97A"
+                "downloadLink": "http://nj02all01.baidupcs.com/file/5a0d13b67995ea17a0882ae8d468481a?bkt=p2-nj02-861&fid=1097258300-250528-217823638376184&time=1447502034&sign=FDTAXGERLBH-DCb740ccc5511e5e8fedcff06b081203-j4un7vvC5%2F6LTRr1dXWXHmd9XYI%3D&to=nj2hb&fm=Nan,B,G,ny&sta_dx=5&sta_cs=0&sta_ft=jar&sta_ct=0&fm2=Nanjing02,B,G,ny&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=000096110ef6c92a55b5943263e7f111fc95&sl=74711118&expires=8h&rt=sh&r=967763131&mlogid=7371354131445400888&vuk=1097258300&vbdid=1833870351&fin=%E5%96%B5%E5%B1%8B%E5%B9%BB%E6%83%B3%E4%B9%A1.jar&fn=%E5%96%B5%E5%B1%8B%E5%B9%BB%E6%83%B3%E4%B9%A1.jar&slt=pm&uta=0&rtype=1&iv=0&isw=0&dp-logid=7371354131445400888&dp-callid=0.1.1",
+                "localPath": "喵屋幻想乡.jar",
+                "md5": "3CC1782D340A224A5E091231442CFB63"
             },
             {
                 "name": "ServerData",
-                "downloadLink": "http://libertydome.b0.upaiyun.com/SingleFiles/servers.dat",
+                "downloadLink": "http://nj.poms.baidupcs.com/file/a812efebdbf4932ba94f4707e3b4f5e8?bkt=p2-nj02-861&fid=1097258300-250528-88083115733079&time=1447502102&sign=FDTAXGERLBH-DCb740ccc5511e5e8fedcff06b081203-2uwtsbn549c%2FLYitQCrjaC6N9hM%3D&to=nb&fm=Nan,B,M,ny&sta_dx=0&sta_cs=0&sta_ft=dat&sta_ct=0&fm2=Nanjing02,B,M,ny&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=1400a812efebdbf4932ba94f4707e3b4f5e8f9aa7418000000000514&sl=74711118&expires=8h&rt=sh&r=657814691&mlogid=7371372471490078568&vuk=1097258300&vbdid=1833870351&fin=servers.dat&fn=servers.dat&slt=pm&uta=0&rtype=1&iv=0&isw=0&dp-logid=7371372471490078568&dp-callid=0.1.1",
                 "localPath": "servers.dat",
-                "md5": "536F31745E0328C9F875190F0565E1EF"
+                "md5": "A812EFEBDBF4932BA94F4707E3B4F5E8"
             },
             {
                 "name": "GregTechLang",
-                "downloadLink": "http://libertydome.b0.upaiyun.com/SingleFiles/GregTech.lang",
+                "downloadLink": "http://nj02all01.baidupcs.com/file/93e160a1ed17638a25c4a3058f35f6aa?bkt=p2-nj02-861&fid=1097258300-250528-519276062557516&time=1447502201&sign=FDTAXGERLBH-DCb740ccc5511e5e8fedcff06b081203-rcKS7h9Fgjh8ORrW2O550Qi0%2Flo%3D&to=nj2hb&fm=Nan,B,T,ny&sta_dx=1&sta_cs=0&sta_ft=lang&sta_ct=0&fm2=Nanjing02,B,T,ny&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=140093e160a1ed17638a25c4a3058f35f6aa56951e10000000145237&sl=74711118&expires=8h&rt=sh&r=663774518&mlogid=7371399100566477041&vuk=1097258300&vbdid=1833870351&fin=GregTech.lang&fn=GregTech.lang&slt=pm&uta=0&rtype=1&iv=0&isw=0&dp-logid=7371399100566477041&dp-callid=0.1.1",
                 "localPath": "GregTech.lang",
-                "md5": "8EF9652BAB31186A26EB3D94459FA0DD"
+                "md5": "93E160A1ED17638A25C4A3058F35F6AA"
             },
 			{
                 "name": "Setting",
-                "downloadLink": "http://libertydome.b0.upaiyun.com/SingleFiles/options.txt",
+                "downloadLink": "http://nb.poms.baidupcs.com/file/dc9656ac4c8f8b5be74c564cf7ad8011?bkt=p2-nj02-861&fid=1097258300-250528-38929049428333&time=1447502295&sign=FDTAXGERLBH-DCb740ccc5511e5e8fedcff06b081203-bshUOcil6b9magEO4JZzWOsCuTQ%3D&to=nbb&fm=Nan,B,M,ny&sta_dx=0&sta_cs=0&sta_ft=txt&sta_ct=0&fm2=Nanjing02,B,M,ny&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=1400dc9656ac4c8f8b5be74c564cf7ad8011bc0864d3000000000d07&sl=83427407&expires=8h&rt=sh&r=176116260&mlogid=7371424385833113290&vuk=1097258300&vbdid=1833870351&fin=options.txt&fn=options.txt&slt=pm&uta=0&rtype=1&iv=0&isw=0&dp-logid=7371424385833113290&dp-callid=0.1.1",
                 "localPath": "options.txt",
-                "md5": "23d8f43193a2abdbc0313fb07b4c61d1"
+                "md5": "DC9656AC4C8F8B5BE74C564CF7AD8011"
             }			
         ]
     },
@@ -95,7 +95,7 @@
         "miniumMemoryMegaSize": 0,
         "nativespath": "natives",
         "libraryPaths": [
-            "libraries/net/minecraftforge/forge/1.7.10-10.13.4.1517-1.7.10/forge-1.7.10-10.13.4.1517-1.7.10.jar",
+            "libraries/net/minecraftforge/forge/1.7.10-10.13.4.1517-1.7.10/forge-1.7.10-10.13.4.1564-1.7.10.jar",
             "libraries/com/mumfrey/liteloader/1.7.10/liteloader-1.7.10.jar",
             "libraries/net/minecraft/launchwrapper/1.11/launchwrapper-1.11.jar",
             "libraries/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar",
