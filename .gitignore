@@ -1,1 +1,160 @@
-remove .minecraft\hmclmc.log
+{
+    "icon": "http://libertydome.b0.upaiyun.com/ldlogo.png",
+    "background": "http://libertydome.b0.upaiyun.com/ldbg.png",
+    "version": "1.09",
+    "generation": "2",
+    "author": "喵呜幻想乡团队",
+    "instanceName": "Fantasy township",
+    "description": "喵呜幻想乡beta0.4
+	1.mod鐨勪緥琛屾洿鏂�
+	2.淇浜嗙儹鍔ㄥ姏瀛︾殑鐭跨墿璇嶅吀闂
+	3.澧炲姞浜嗙幆澧僲od",
+    "updatePath": "http://libertydome.b0.upaiyun.com/LibertyDomeAdv.json",
+    "fileSystem": {
+        "entirePackageFiles": [
+            {
+                "name": "Library",
+                "downloadLink": "http://libertydome.b0.upaiyun.com/libraries.zip",
+                "localPath": "libraries/",
+                "md5": "1E16F12F998BDBEEC4E5A6B6CA37D5DF"
+            },
+            {
+                "name": "Assets",
+                "downloadLink": "http://libertydome.b0.upaiyun.com/assets.zip",
+                "localPath": "assets/",
+                "md5": "47BD43D77B2B91C2E9970B1B5215660A"
+            },
+            {
+                "name": "Natives",
+                "downloadLink": "http://libertydome.b0.upaiyun.com/natives.zip",
+                "localPath": "natives/",
+                "md5": "6167b2dbcdc8cdd9f571173940fc896f"
+            },
+            {
+                "name": "Scripts",
+                "downloadLink": "http://libertydome.b0.upaiyun.com/scripts.zip",
+                "localPath": "scripts/",
+                "md5": "AE1B9558BB38930CBD50DCF05A44B3AE"
+            },
+            {
+                "name": "Configs",
+                "downloadLink": "http://libertydome.b0.upaiyun.com/config.zip",
+                "localPath": "config/",
+                "md5": "D6DF720999F8CBDE373399C7F1676FE7"
+            },
+            {
+                "name": "CustomSkinLoader",
+                "downloadLink": "http://libertydome.b0.upaiyun.com/CustomSkinLoader.zip",
+                "localPath": "CustomSkinLoader/",
+                "md5": "DBCEE6B837590BEB26CF707EDC24FD17"
+            },
+            {
+                "name": "Mods",
+                "downloadLink": "http://libertydome.b0.upaiyun.com/mods.zip",
+                "localPath": "mods/",
+                "md5": "909B48909495440C2EB310A7732BCBE4"
+            }
+        ],
+        "customFiles": [
+            {
+                "name": "MainJar",
+                "downloadLink": "http://libertydome.b0.upaiyun.com/SingleFiles/LibertyDome-Elite.jar",
+                "localPath": "LibertyDome-Elite.jar",
+                "md5": "8569E3CAB38E236867CAC0953703C97A"
+            },
+            {
+                "name": "ServerData",
+                "downloadLink": "http://libertydome.b0.upaiyun.com/SingleFiles/servers.dat",
+                "localPath": "servers.dat",
+                "md5": "536F31745E0328C9F875190F0565E1EF"
+            },
+            {
+                "name": "GregTechLang",
+                "downloadLink": "http://libertydome.b0.upaiyun.com/SingleFiles/GregTech.lang",
+                "localPath": "GregTech.lang",
+                "md5": "8EF9652BAB31186A26EB3D94459FA0DD"
+            },
+			{
+                "name": "Setting",
+                "downloadLink": "http://libertydome.b0.upaiyun.com/SingleFiles/options.txt",
+                "localPath": "options.txt",
+                "md5": "23d8f43193a2abdbc0313fb07b4c61d1"
+            }			
+        ]
+    },
+    "startupArguments": {
+        "jvmArguments": [
+            "-XX:+UseConcMarkSweepGC",
+            "-XX:+CMSIncrementalMode",
+            "-XX:-UseAdaptiveSizePolicy",
+            "-Xmn128M",
+            "-XX:MaxPermSize=256M",
+            "-Dfml.ignoreInvalidMinecraftCertificates=true",
+            "-Dfml.ignorePatchDiscrepancies=true"
+        ],
+        "miniumMemoryMegaSize": 0,
+        "nativespath": "natives",
+        "libraryPaths": [
+            "libraries/net/minecraftforge/forge/1.7.10-10.13.4.1517-1.7.10/forge-1.7.10-10.13.4.1517-1.7.10.jar",
+            "libraries/com/mumfrey/liteloader/1.7.10/liteloader-1.7.10.jar",
+            "libraries/net/minecraft/launchwrapper/1.11/launchwrapper-1.11.jar",
+            "libraries/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar",
+            "libraries/com/google/guava/guava/16.0/guava-16.0.jar",
+            "libraries/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar",
+            "libraries/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar",
+            "libraries/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar",
+            "libraries/com/typesafe/config/1.2.1/config-1.2.1.jar",
+            "libraries/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar",
+            "libraries/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar",
+            "libraries/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar",
+            "libraries/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar",
+            "libraries/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar",
+            "libraries/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar",
+            "libraries/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar",
+            "libraries/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar",
+            "libraries/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar",
+            "libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar",
+            "libraries/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar",
+            "libraries/com/google/guava/guava/17.0/guava-17.0.jar",
+            "libraries/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar",
+            "libraries/com/mojang/realms/1.2.4/realms-1.2.4.jar",
+            "libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar",
+            "libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar",
+            "libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar",
+            "libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar",
+            "libraries/java3d/vecmath/1.3.1/vecmath-1.3.1.jar",
+            "libraries/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar",
+            "libraries/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar",
+            "libraries/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar",
+            "libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar",
+            "libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar",
+            "libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar",
+            "libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar",
+            "libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar",
+            "libraries/io/netty/netty-all/4.0.10.Final/netty-all-4.0.10.Final.jar",
+            "libraries/com/google/guava/guava/15.0/guava-15.0.jar",
+            "libraries/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar",
+            "libraries/commons-io/commons-io/2.4/commons-io-2.4.jar",
+            "libraries/commons-codec/commons-codec/1.9/commons-codec-1.9.jar",
+            "libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar",
+            "libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar",
+            "libraries/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar",
+            "libraries/com/mojang/authlib/1.5.13/authlib-1.5.13.jar",
+            "libraries/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9.jar",
+            "libraries/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9.jar",
+            "libraries/org/lwjgl/lwjgl/lwjgl/2.9.1/lwjgl-2.9.1.jar",
+            "libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.1/lwjgl_util-2.9.1.jar",
+            "libraries/tv/twitch/twitch/5.16/twitch-5.16.jar"
+        ],
+        "mainJarPath": "LibertyDome-Elite.jar",
+        "mainClass": "net.minecraft.launchwrapper.Launch",
+        "version": "1.7.10",
+        "assetsDir": "assets",
+        "assetIndex": "1.7.10",
+        "userType": "mojang",
+        "tweakClasses": [
+            "cpw.mods.fml.common.launcher.FMLTweaker",
+            "com.mumfrey.liteloader.launch.LiteLoaderTweaker"
+        ]
+    }
+}
