@@ -1,42 +1,43 @@
 {
     "icon": "http://nj02all01.baidupcs.com/file/fc3cfb8fdec216da319ba45b102c1d04?bkt=p2-nj02-861&fid=1097258300-250528-998175553477468&time=1447505740&sign=FDTAXGERLBH-DCb740ccc5511e5e8fedcff06b081203-9fnzQwDYkTSXBELj3DG%2F19NAwCU%3D&to=nj2hb&fm=Nan,B,G,ny&sta_dx=0&sta_cs=0&sta_ft=jpg&sta_ct=0&fm2=Nanjing02,B,G,ny&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=1400fc3cfb8fdec216da319ba45b102c1d04dd3ac565000000024edd&sl=71696462&expires=8h&rt=pr&r=700113451&mlogid=7372349002621846270&vuk=1097258300&vbdid=1833870351&fin=2.jpg&fn=2.jpg&slt=pm&uta=0&rtype=1&iv=0&isw=0&dp-logid=7372349002621846270&dp-callid=0.1.1",
     "background": "http://libertydome.b0.upaiyun.com/ldbg.png",
-    "version": "0.3",
+    "version": "0.1",
     "generation": "2",
-    "author": "喵呜幻想乡团队",
+    "author": "喵呜幻想乡管理团队{xiameng}",
     "instanceName": "Fantasy township",
-    "description": "喵呜幻想乡ver0.3
-	1.修复下载失败问题",
+    "description": "喵呜幻想乡ver0.1
+	1.修复下载失败问题
+	2.构建重置",
     "updatePath": "https://raw.githubusercontent.com/xiamenggroup/SWSW/master/.gitignore",
     "fileSystem": {
         "entirePackageFiles": [
             {
                 "name": "Library",
-                "downloadLink": "http://01f519.l21.yunpan.cn/lk/cLSGyit6P8Wag#/-0",
+                "downloadLink": "http://nj02all01.baidupcs.com/file/0ee7a3da8f8daecdd7f05c9caf9e91a2?bkt=p2-nj02-861&fid=1097258300-250528-120775623734300&time=1447509216&sign=FDTAXGERLBH-DCb740ccc5511e5e8fedcff06b081203-FHRfbb%2B0W6b7fzoNbwpI1MDa3Rw%3D&to=nj2hb&fm=Nan,B,T,ny&sta_dx=62&sta_cs=0&sta_ft=zip&sta_ct=0&fm2=Nanjing02,B,T,ny&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=0000e0d5287594bdccd84a7f1727319e3fcc&sl=72220750&expires=8h&rt=sh&r=608355479&mlogid=7373282030831430331&vuk=1097258300&vbdid=1833870351&fin=libraries.zip&fn=libraries.zip&slt=pm&uta=0&rtype=1&iv=0&isw=0&dp-logid=7373282030831430331&dp-callid=0.1.1",
                 "localPath": "libraries/",
                 "md5": "4482E062E7563A387EE0E5810F06634B"
             },
             {
                 "name": "Assets",
-                "downloadLink": "http://01f519.l21.yunpan.cn/lk/cLSGyit6P8Wag#/-0",
+                "downloadLink": "http://nj02all01.baidupcs.com/file/1cd04fafbc3dc4a852644e38af952760?bkt=p2-nj02-861&fid=1097258300-250528-591209913713780&time=1447509198&sign=FDTAXGERLBH-DCb740ccc5511e5e8fedcff06b081203-2KAsTwlt9v00CJgXzcRvA7fwPnI%3D&to=nj2hb&fm=Nan,B,U,ny&sta_dx=108&sta_cs=0&sta_ft=zip&sta_ct=0&fm2=Nanjing02,B,U,ny&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=00007d61cb76707de31ffe61ec836c8266e1&sl=72220750&expires=8h&rt=sh&r=313316685&mlogid=7373277173174803479&vuk=1097258300&vbdid=1833870351&fin=assets.zip&fn=assets.zip&slt=pm&uta=0&rtype=1&iv=0&isw=0&dp-logid=7373277173174803479&dp-callid=0.1.1",
                 "localPath": "assets/",
                 "md5": "BC9F74AA3C8EBCFE34BEAE2E3474A23D"
             },
             {
                 "name": "Natives",
-                "downloadLink": "http://01f519.l21.yunpan.cn/lk/cLSGyit6P8Wag#/-0",
+                "downloadLink": "http://nj02all01.baidupcs.com/file/a2a29a8377a0ec85eddcdaf4e75acb2d?bkt=p2-nj02-861&fid=1097258300-250528-62647297744986&time=1447509155&sign=FDTAXGERLBH-DCb740ccc5511e5e8fedcff06b081203-bZJICU69w1teE%2BvlpKd8GfnV9oY%3D&to=nj2hb&fm=Nan,B,U,ny&sta_dx=6&sta_cs=0&sta_ft=zip&sta_ct=0&fm2=Nanjing02,B,U,ny&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=00003dbaa690f3f69b5085bb2d9c6e26fa99&sl=72220750&expires=8h&rt=sh&r=521322477&mlogid=7373265629350843988&vuk=1097258300&vbdid=1833870351&fin=natives.zip&fn=natives.zip&slt=pm&uta=0&rtype=1&iv=0&isw=0&dp-logid=7373265629350843988&dp-callid=0.1.1",
                 "localPath": "natives/",
                 "md5": "5DB33E7FAE680081F2744B739E12CB4E"
             },
             {
                 "name": "Scripts",
-                "downloadLink": "http://01f519.l21.yunpan.cn/lk/cLSGyit6P8Wag#/-0",
+                "downloadLink": "http://nj02all01.baidupcs.com/file/436e8135ec5172fb8c8854725b522cd2?bkt=p2-nj02-861&fid=1097258300-250528-839310373844787&time=1447509302&sign=FDTAXGERLBH-DCb740ccc5511e5e8fedcff06b081203-g9%2B%2BX1oDWw8jaOoUyZX72qwoWFo%3D&to=nj2hb&fm=Nan,B,M,ny&sta_dx=0&sta_cs=0&sta_ft=zip&sta_ct=0&fm2=Nanjing02,B,M,ny&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=1400436e8135ec5172fb8c8854725b522cd2040686d900000000ba5f&sl=72220750&expires=8h&rt=sh&r=289889326&mlogid=7373305310350876474&vuk=1097258300&vbdid=1833870351&fin=scripts.zip&fn=scripts.zip&slt=pm&uta=0&rtype=1&iv=0&isw=0&dp-logid=7373305310350876474&dp-callid=0.1.1",
                 "localPath": "scripts/",
                 "md5": "40AE6A2C4008F9CA66D42DB5068358BA"
             },
             {
                 "name": "Configs",
-                "downloadLink": "http://01f519.l21.yunpan.cn/lk/cLSGyit6P8Wag#/-0",
+                "downloadLink": "http://nj02all01.baidupcs.com/file/8a84ec16c6381850b0fb679f5efddf66?bkt=p2-nj02-861&fid=1097258300-250528-140102753671573&time=1447509265&sign=FDTAXGERLBH-DCb740ccc5511e5e8fedcff06b081203-%2BIjVnddcsCOBH3sfuHZccJ%2F9HC8%3D&to=nj2hb&fm=Nan,B,U,ny&sta_dx=1&sta_cs=0&sta_ft=zip&sta_ct=0&fm2=Nanjing02,B,U,ny&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=14008a84ec16c6381850b0fb679f5efddf6682e093ab0000000a53cb&sl=72220750&expires=8h&rt=sh&r=857951347&mlogid=7373295178570815416&vuk=1097258300&vbdid=1833870351&fin=config.zip&fn=config.zip&slt=pm&uta=0&rtype=1&iv=0&isw=0&dp-logid=7373295178570815416&dp-callid=0.1.1",
                 "localPath": "config/",
                 "md5": "050CFC639E8F95E16C6A3A790154A747"
             },
@@ -48,7 +49,7 @@
             },
             {
                 "name": "Mods",
-                "downloadLink": "http://01f519.l21.yunpan.cn/lk/cLSGyit6P8Wag#/-0",
+                "downloadLink": "http://nj02all01.baidupcs.com/file/d6daba75a187245731d5e101eb487fb2?bkt=p2-nj02-861&fid=1097258300-250528-219308896797437&time=1447509283&sign=FDTAXGERLBH-DCb740ccc5511e5e8fedcff06b081203-5xdOXC3eRTPNRYojTjsPlMZKE28%3D&to=nj2hb&fm=Nan,B,M,ny&sta_dx=110&sta_cs=0&sta_ft=zip&sta_ct=0&fm2=Nanjing02,B,M,ny&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=00009888f9cc126eb5eca9057098ea2ce6d2&sl=72220750&expires=8h&rt=sh&r=265470647&mlogid=7373299449008442576&vuk=1097258300&vbdid=1833870351&fin=mods.zip&fn=mods.zip&slt=pm&uta=0&rtype=1&iv=0&isw=0&dp-logid=7373299449008442576&dp-callid=0.1.1",
                 "localPath": "mods/",
                 "md5": "A2C3AB40412C2F7DF3ECF803435AD52A"
             }
@@ -56,25 +57,25 @@
         "customFiles": [
             {
                 "name": "MainJar",
-                "downloadLink": "http://01f519.l21.yunpan.cn/lk/cLSGyit6P8Wag#/-0",
+                "downloadLink": "http://nj02.poms.baidupcs.com/file/5a0d13b67995ea17a0882ae8d468481a?bkt=p2-nj02-861&fid=1097258300-250528-839728352039280&time=1447509126&sign=FDTAXGERLBH-DCb740ccc5511e5e8fedcff06b081203-rmNpPIxRFSXacGOtSrh88foLF2Y%3D&to=n2b&fm=Nan,B,G,ny&sta_dx=5&sta_cs=0&sta_ft=jar&sta_ct=0&fm2=Nanjing02,B,G,ny&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=000096110ef6c92a55b5943263e7f111fc95&sl=72220750&expires=8h&rt=sh&r=866350960&mlogid=7373257981482587942&vuk=1097258300&vbdid=1833870351&fin=%E5%96%B5%E5%B1%8B%E5%B9%BB%E6%83%B3%E4%B9%A1.jar&fn=%E5%96%B5%E5%B1%8B%E5%B9%BB%E6%83%B3%E4%B9%A1.jar&slt=pm&uta=0&rtype=1&iv=0&isw=0&dp-logid=7373257981482587942&dp-callid=0.1.1",
                 "localPath": "喵屋幻想乡.jar",
                 "md5": "3CC1782D340A224A5E091231442CFB63"
             },
             {
                 "name": "ServerData",
-                "downloadLink": "http://01f519.l21.yunpan.cn/lk/cLSGyit6P8Wag#/-0",
+                "downloadLink": "http://nj02.poms.baidupcs.com/file/a812efebdbf4932ba94f4707e3b4f5e8?bkt=p2-nj02-861&fid=1097258300-250528-1064400584334172&time=1447509233&sign=FDTAXGERLBH-DCb740ccc5511e5e8fedcff06b081203-Uco6rAhPlaxl2gZgi1d%2BZEjslTM%3D&to=n2b&fm=Nan,B,M,ny&sta_dx=0&sta_cs=0&sta_ft=dat&sta_ct=0&fm2=Nanjing02,B,M,ny&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=1400a812efebdbf4932ba94f4707e3b4f5e8f9aa7418000000000514&sl=72220750&expires=8h&rt=sh&r=221159129&mlogid=7373286609281591222&vuk=1097258300&vbdid=1833870351&fin=servers.dat&fn=servers.dat&slt=pm&uta=0&rtype=1&iv=0&isw=0&dp-logid=7373286609281591222&dp-callid=0.1.1",
                 "localPath": "servers.dat",
                 "md5": "A812EFEBDBF4932BA94F4707E3B4F5E8"
             },
             {
                 "name": "GregTechLang",
-                "downloadLink": "http://01f519.l21.yunpan.cn/lk/cLSGyit6P8Wag#/-0",
+                "downloadLink": "http://nj02all01.baidupcs.com/file/93e160a1ed17638a25c4a3058f35f6aa?bkt=p3-140093e160a1ed17638a25c4a3058f35f6aa56951e10000000145237&fid=1097258300-250528-190912839797772&time=1447509173&sign=FDTAXGERLBH-DCb740ccc5511e5e8fedcff06b081203-H8g%2F2S3UydTBERRE3s6Z3I4LuN4%3D&to=nj2hb&fm=Nan,B,U,ny&sta_dx=1&sta_cs=0&sta_ft=lang&sta_ct=0&fm2=Nanjing02,B,U,ny&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=140093e160a1ed17638a25c4a3058f35f6aa56951e10000000145237&sl=72220750&expires=8h&rt=sh&r=557612428&mlogid=7373270597408607836&vuk=1097258300&vbdid=1833870351&fin=GregTech.lang&fn=GregTech.lang&slt=pm&uta=0&rtype=1&iv=0&isw=0&dp-logid=7373270597408607836&dp-callid=0.1.1",
                 "localPath": "GregTech.lang",
                 "md5": "93E160A1ED17638A25C4A3058F35F6AA"
             },
 			{
                 "name": "Setting",
-                "downloadLink": "http://01f519.l21.yunpan.cn/lk/cLSGyit6P8Wag#/-0",
+                "downloadLink": "http://nj02.poms.baidupcs.com/file/dc9656ac4c8f8b5be74c564cf7ad8011?bkt=p2-nj02-861&fid=1097258300-250528-704150135202217&time=1447509249&sign=FDTAXGERLBH-DCb740ccc5511e5e8fedcff06b081203-qSqOfxW%2F%2BOPjGm11rF4b%2FOVnHqo%3D&to=n2b&fm=Nan,B,U,ny&sta_dx=0&sta_cs=0&sta_ft=txt&sta_ct=0&fm2=Nanjing02,B,U,ny&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=1400dc9656ac4c8f8b5be74c564cf7ad8011bc0864d3000000000d07&sl=72220750&expires=8h&rt=sh&r=364000343&mlogid=7373291049479965475&vuk=1097258300&vbdid=1833870351&fin=options.txt&fn=options.txt&slt=pm&uta=0&rtype=1&iv=0&isw=0&dp-logid=7373291049479965475&dp-callid=0.1.1",
                 "localPath": "options.txt",
                 "md5": "DC9656AC4C8F8B5BE74C564CF7AD8011"
             }			
