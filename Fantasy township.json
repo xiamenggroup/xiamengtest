@@ -1,11 +1,11 @@
 {
     "icon": "http://sdl53.yunpan.cn/share.php?method=Share.download&cqid=f48379dac8d94f7c2502900a88a85759&dt=53.09910a600ae653fb4cae11d53ba05ab3&e=1447744787&fhash=8e53a0fce6e1e2976f92d871d42e4a260c1ca0da&fname=icon.jpg&fsize=151261&nid=14475036399490102&st=9d350ecc41a37bc1626750cdca7a1907&xqid=1244787103",
     "background": "http://libertydome.b0.upaiyun.com/ldbg.png",
-    "version": "0.1",
+    "version": "0.2",
     "generation": "2",
     "author": "喵呜幻想乡管理团队{xiameng}",
     "instanceName": "Fantasy township",
-    "description": "喵呜幻想乡beta0.1
+    "description": "喵呜幻想乡beta0.2
 	1.修复下载失败问题
 	2.下载速度挺高
 	3.发现启动器无法启动
