@@ -94,7 +94,7 @@
         "miniumMemoryMegaSize": 0,
         "nativespath": "natives",
         "libraryPaths": [
-            "libraries/net/minecraftforge/forge/1.7.10-10.13.4.1517-1.7.10/forge-1.7.10-10.13.4.1564-1.7.10.jar",
+            "libraries/net/minecraftforge/forge/1.7.10-10.13.4.1564-1.7.10/forge-1.7.10-10.13.4.1564-1.7.10.jar",
             "libraries/com/mumfrey/liteloader/1.7.10/liteloader-1.7.10.jar",
             "libraries/net/minecraft/launchwrapper/1.11/launchwrapper-1.11.jar",
             "libraries/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar",
