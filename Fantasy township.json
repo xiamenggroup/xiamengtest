@@ -1,54 +1,55 @@
 {
     "icon": "http://180.97.83.186:443/down/fc3cfb8fdec216da319ba45b102c1d04-151261/SW.jpg?cts=dx-f-F90e87D106A226A248A140&ctp=106A226A248A140&ctt=1447558328&limit=3&spd=3200000&ctk=659282c9129d7655b1357af45a9a64a1&chk=fc3cfb8fdec216da319ba45b102c1d04-151261",
     "background": "http://libertydome.b0.upaiyun.com/ldbg.png",
-    "version": "0.2",
+    "version": "0.3",
     "generation": "2",
     "author": "喵呜幻想乡管理团队{xiameng}",
     "instanceName": "Fantasy township",
-    "description": "喵呜幻想乡ver0.2
-	1.修复下载失败问题",
+    "description": "喵呜幻想乡ver0.3
+	1.修复下载失败问题
+	2.总是错误",
     "updatePath": "https://raw.githubusercontent.com/xiamenggroup/xiamengtest/master/Fantasy%20township.json",
     "fileSystem": {
         "entirePackageFiles": [
             {
                 "name": "Library",
-                "downloadLink": "http://cache.yyupload.com/down/9125609/libraries.zip",
+                "downloadLink": "http://sh-btfs-yun-ftn.weiyun.com/ftn_handler/58ed74adaeb6d88612eeb6bba9a6512b2ea227a03c770564ae61e20a2db9422c4d6f365c7c7bdf8c3ac2287e59915cc4378ebcbe411b334556c12e6bb0d4decd/?fname=libraries.zip&from=30013&version=2.0.0.2&uin=532984953",
                 "localPath": "libraries/",
                 "md5": "4482E062E7563A387EE0E5810F06634B"
             },
             {
                 "name": "Assets",
-                "downloadLink": "http://180.97.83.186:443/down/36636374139b5092641d222f4952e21d-113243829/assets.zip?cts=dx-f-F90e87D106A226A248A140&ctp=106A226A248A140&ctt=1447557314&limit=1&spd=1030000&ctk=d3ff250322075f0a8e21b85d0ebee653&chk=36636374139b5092641d222f4952e21d-113243829",
+                "downloadLink": "http://sh-btfs-yun-ftn.weiyun.com/ftn_handler/1a05296013224e3d106c8de7c6cb521bcfb5e4d279cab060aafe6094a587b3e2356abfc5a597d233f5cc8521b1c70de22f14bb657ae00aa38d0fa6c8b9905940/?fname=assets.zip&from=30013&version=2.0.0.2&uin=532984953",
                 "localPath": "assets/",
                 "md5": "5FBEFD07B38C5C053E5572D5641FA960"
             },
             {
                 "name": "Natives",
-                "downloadLink": "http://180.97.83.186:443/down/30137af85c41d3170a0881498ef5e016-6642932/natives.zip?cts=dx-f-F90e87D106A226A248A140&ctp=106A226A248A140&ctt=1447557372&limit=3&spd=3200000&ctk=d66c50a14af78743987b89688b54077a&chk=30137af85c41d3170a0881498ef5e016-6642932",
+                "downloadLink": "http://sh-btfs-yun-ftn.weiyun.com/ftn_handler/a0bc7a72e82cb5ed0bae9fe5a5093da8b832c6b8ca0351f8c159bec620033078fe237e4428a8b019aed99fef6a8c810c9f8b75035e44b1e190f3e1ab971545d4/?fname=natives.zip&from=30013&version=2.0.0.2&uin=532984953",
                 "localPath": "natives/",
                 "md5": "F976879F9C2D6BF2F01ACB4BABE4BA39"
             },
             {
                 "name": "Scripts",
-                "downloadLink": "http://180.97.83.186:443/down/436e8135ec5172fb8c8854725b522cd2-47711/scripts.zip?cts=dx-f-F90e87D106A226A248A140&ctp=106A226A248A140&ctt=1447557437&limit=3&spd=3200000&ctk=9922fea6a683c5494f5b975a4f218629&chk=436e8135ec5172fb8c8854725b522cd2-47711",
+                "downloadLink": "http://sh-btfs-yun-ftn.weiyun.com/ftn_handler/3678965ad8117e52cadd48becc5b420727db4e4f48170d048c2a3d0a3939b50f0522f6e9d119bdc3919d001557671dbcfad4fbb3694c9481a2962354df16dfcb/?fname=scripts.zip&from=30013&version=2.0.0.2&uin=532984953",
                 "localPath": "scripts/",
                 "md5": "436E8135EC5172FB8C8854725B522CD2"
             },
             {
                 "name": "Configs",
-                "downloadLink": "http://180.97.83.186:443/down/3c31c61db0c9b25d1b0db309b0694dbf-676811/config.zip?cts=dx-f-F90e87D106A226A248A140&ctp=106A226A248A140&ctt=1447557486&limit=3&spd=3200000&ctk=a4d1c6adaf682caf0587b5badd7c34a8&chk=3c31c61db0c9b25d1b0db309b0694dbf-676811",
+                "downloadLink": "http://sh-btfs-yun-ftn.weiyun.com/ftn_handler/942f0d44fd6efcd10adf91423d3a51ad81b20f30f75c8b66b78bbf891a23438e8726fe83741e3ca2b665b5f6930ffba92d8c4b1cfbd6b07b8c9ad2fa3f79eade/?fname=config.zip&from=30013&version=2.0.0.2&uin=532984953",
                 "localPath": "config/",
                 "md5": "3C31C61DB0C9B25D1B0DB309B0694DBF"
             },
             {
                 "name": "CustomSkinLoader",
-                "downloadLink": "http://180.97.83.186:443/down/aaaf798f3c2458e49f149e35bceccdb4-32997/c575110d33.zip?cts=dx-f-F90e87D106A226A248A140&ctp=106A226A248A140&ctt=1447559104&limit=3&spd=3200000&ctk=635dc0338b5db3005d73deeecd22a1ab&chk=aaaf798f3c2458e49f149e35bceccdb4-32997",
+                "downloadLink": "http://sh-btfs-yun-ftn.weiyun.com/ftn_handler/6a78495273092e1415907ad5a062beab513bdb572d9b8f544176ca13bfc39bb6410f06fc6102d6de26b2afecc2e8dffcd566ca924c1f5c006bbc6bcfd93c6a24/?fname=CustomSkinLoader.zip&from=30013&version=2.0.0.2&uin=532984953",
                 "localPath": "CustomSkinLoader/",
-                "md5": "AAAF798F3C2458E49F149E35BCECCDB4"
+                "md5": "AD4B068E96236555E2697593604E2D25"
             },
             {
                 "name": "Mods",
-                "downloadLink": "http://180.97.83.186:443/down/66947bae60bd7971bd187b9343de2880-114971765/mods.zip?cts=dx-f-F90e87D106A226A248A140&ctp=106A226A248A140&ctt=1447557536&limit=1&spd=1030000&ctk=519e0fe5eb643ae211cdf8a1702fb8d5&chk=66947bae60bd7971bd187b9343de2880-114971765",
+                "downloadLink": "http://sh-btfs-yun-ftn.weiyun.com/ftn_handler/394e114bfaf5b30501a32a0184062798d386cb902174b9c198ccce717ce412925a90a794e2b87a8635b836c903fb90c471ba086620ccddecffb48542bf653a16/?fname=mods.zip&from=30013&version=2.0.0.2&uin=532984953",
                 "localPath": "mods/",
                 "md5": "CFFF45ED7BDAA827D4C8B0E36DFA7B0A"
             }
@@ -56,19 +57,19 @@
         "customFiles": [
             {
                 "name": "MainJar",
-                "downloadLink": "http://180.97.83.186:443/down/20595f72a42111eecd3ac06833d830f2-5759402/%E5%96%B5%E5%B1%8B%E5%B9%BB%E6%83%B3%E4%B9%A1.jar?cts=dx-f-F90e87D106A226A248A140&ctp=106A226A248A140&ctt=1447557595&limit=3&spd=3200000&ctk=3b5082655ea84f7c78fd1d7250a213ff&chk=20595f72a42111eecd3ac06833d830f2-5759402",
+                "downloadLink": "http://sh-btfs-yun-ftn.weiyun.com/ftn_handler/b24a9aa3947765a851d1763a475271a68631f8df04f654a0eefe017de427524a1f6d8b82d200b695b4ee7fd8e3dd5ad44f00b76b1fab0734d5168abad1de016b/?fname=%e5%96%b5%e5%b1%8b%e5%b9%bb%e6%83%b3%e4%b9%a1.jar&from=30013&version=2.0.0.2&uin=532984953",
                 "localPath": "喵屋幻想乡.jar",
                 "md5": "3CC1782D340A224A5E091231442CFB63"
             },
             {
                 "name": "ServerData",
-                "downloadLink": "http://180.97.83.186:443/down/a812efebdbf4932ba94f4707e3b4f5e8-1300/servers.dat?cts=dx-f-F90e87D106A226A248A140&ctp=106A226A248A140&ctt=1447557657&limit=3&spd=3200000&ctk=98edc0130dd83a2c8dd297c1c911ee43&chk=a812efebdbf4932ba94f4707e3b4f5e8-1300",
+                "downloadLink": "http://sh-btfs-yun-ftn.weiyun.com/ftn_handler/85547488c5d080aaff2d05c138da11c05efa3b84670d7ba8fa0fc922b6eed7e45db79df2052def813d624d6775396d5eccbd1f503ea7f27369f08eaa3c7cf2e9/?fname=servers.dat&from=30013&version=2.0.0.2&uin=532984953",
                 "localPath": "servers.dat",
                 "md5": "A812EFEBDBF4932BA94F4707E3B4F5E8"
             },
             {
                 "name": "GregTechLang",
-                "downloadLink": "http://180.97.83.186:443/down/5e26f9b7fa07ccd5d86fcad498e57996-1331767/GregTech.lang?cts=dx-f-F90e87D106A226A248A140&ctp=106A226A248A140&ctt=1447557715&limit=3&spd=3200000&ctk=8f13bac31d8c8513e8137299c4f5d91d&chk=5e26f9b7fa07ccd5d86fcad498e57996-1331767",
+                "downloadLink": "http://sh-btfs-yun-ftn.weiyun.com/ftn_handler/8595d68a17eb4aab031c8fa2fc81ea16b0f4ef8c98dd58c6477ca8224751d5780c6905c1f3222ef049061c7cb08db0221ac11ad6469bfccc935b4ed43e967dd9/?fname=GregTech.lang&from=30013&version=2.0.0.2&uin=532984953",
                 "localPath": "GregTech.lang",
                 "md5": "93E160A1ED17638A25C4A3058F35F6AA"
             },
