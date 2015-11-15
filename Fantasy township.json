@@ -1,11 +1,11 @@
 {
     "icon": "http://180.97.83.186:443/down/fc3cfb8fdec216da319ba45b102c1d04-151261/SW.jpg?cts=dx-f-F90e87D106A226A248A140&ctp=106A226A248A140&ctt=1447558328&limit=3&spd=3200000&ctk=659282c9129d7655b1357af45a9a64a1&chk=fc3cfb8fdec216da319ba45b102c1d04-151261",
     "background": "http://libertydome.b0.upaiyun.com/ldbg.png",
-    "version": "0.5",
+    "version": "0.1",
     "generation": "2",
     "author": "喵呜幻想乡管理团队{xiameng}",
     "instanceName": "Fantasy township",
-    "description": "喵呜幻想乡ver0.5
+    "description": "喵呜幻想乡ver0.1
 	1.修复下载失败问题
 	2.总是错误",
     "updatePath": "https://raw.githubusercontent.com/xiamenggroup/xiamengtest/master/Fantasy%20township.json",
