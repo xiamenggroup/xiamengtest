@@ -8,7 +8,7 @@
     "description": "喵呜幻想乡ver0.1
 	1.修复下载失败问题
 	2.构建重置",
-    "updatePath": "https://raw.githubusercontent.com/xiamenggroup/SWSW/master/.gitignore",
+    "updatePath": "https://raw.githubusercontent.com/xiamenggroup/xiamengtest/master/Fantasy%20township.json",
     "fileSystem": {
         "entirePackageFiles": [
             {
